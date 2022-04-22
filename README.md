@@ -64,8 +64,8 @@ Yapacağımız bu projenin kaynak kodu herkese açık olacaktır. Proje PHP dili
 
 ## Proje Zaman Çizelgesi:
 - [x] İş bölümü oluşturulması (01.04.2022)
-- [ ] Dijital pano arayüz tasarımının oluşturulması (14.04.2022)
-- [ ] Dijital pano veritabanı tasarımının oluşturulması (21.04.2022)
+- [x] Dijital pano arayüz tasarımının oluşturulması (14.04.2022)
+- [x] Dijital pano veritabanı tasarımının oluşturulması (21.04.2022)
 - [ ] ....
 - [ ] ....
 - [ ] ....
