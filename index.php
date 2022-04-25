@@ -248,7 +248,7 @@ position: absolute;
 
 </style>
 <body onLoad="saat()">
-<div class="imza">by Ahmet KIZIL</div>    
+<div class="imza">BY ALERON</div>    
     
 	<div id="ana">
 	<div id="okul">	RAMAZANOĞLU MESLEKİ VE TEKNİK ANADOLU LİSESİ			</div>
