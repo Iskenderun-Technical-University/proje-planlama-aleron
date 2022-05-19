@@ -34,9 +34,9 @@ Yapacağımız bu projenin kaynak kodu herkese açık olacaktır. Proje PHP dili
 
 
 ## Proje İş Bölümü:
-#### Pano Tasarım İşlemleri: 212503217 Erol GÖNÜL
-#### Veritabanı İşlemleri: 212523209 Ali Fuat GÜNEŞ
-#### Php Kodlama İşlemleri: 212503218 Öner SARITAŞ
+#### Pano Tasarım İşlemleri + PHP Kodlama İşlemleri: 212503217 Erol GÖNÜL
+#### Veritabanı İşlemleri + PHP Kodlama İşlemleri: 212523209 Ali Fuat GÜNEŞ
+#### Pano Tasarım İşlemleri + Php Kodlama İşlemleri: 212503218 Öner SARITAŞ
 
 
 ## Aktiviteler:
@@ -66,10 +66,14 @@ Yapacağımız bu projenin kaynak kodu herkese açık olacaktır. Proje PHP dili
 - [x] İş bölümü oluşturulması (01.04.2022)
 - [x] Dijital pano arayüz tasarımının oluşturulması (14.04.2022)
 - [x] Dijital pano veritabanı tasarımının oluşturulması (21.04.2022)
-- [ ] ....
-- [ ] ....
-- [ ] ....
-- [ ] ....
-- [ ] ....
-
-
+- [ ] Ders kayıt formunun oluşturulması (28.04.2022)
+- [ ] Alan kayıt formunun oluşturulması (28.04.2022)
+- [ ] Sınıf kayıt formunun oluşturulması (28.04.2022)
+- [ ] Öğretmen kayıt formunun oluşturulması (08.05.2022)
+- [ ] Konum kayıt formunun oluşturulması (08.05.2022)
+- [ ] Ders programının oluşturulması (15.05.2022)
+- [ ] Nöbet Programının oluşturulması (15.05.2022)
+- [ ] Ana sayfada kayan resim video görüntüleme işlemlerinin düzenlenmesi (22.05.2022)
+- [ ] Veritabanına veri girişlerinin tamamlanması (27.05.2022)
+- [ ] Dijital panonun test edilmesi (28.05.2022)
+- [ ] Projenin sonlandırılması (29.05.2022)
